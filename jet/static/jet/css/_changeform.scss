@@ -152,6 +152,7 @@ form .aligned {
     margin-top: 0;
     margin-left: 160px;
     padding-left: 10px;
+    color: currentColor;
 
     @include for-mobile {
       margin-left: 0;
